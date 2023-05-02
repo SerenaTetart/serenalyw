@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm @Serenalyw, a self-taught programmer and AI enthusiast.
 
-* 👀 I’m interested in Machine Learning / Deep Learning / Data Science.
+* 👀 I’m interested in Machine Learning / Deep Learning / Data Science and Cybersecurity.
 * :blue_book: I plan to learn software engineering in a near futur.
 * :microscope: I also learn mathematics and physic on my free time.
 * :sunny: Everything is achievable with determination.
